@@ -1,0 +1,260 @@
+﻿<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<title>Contact US - ExonHost</title>
+<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/tabcontent-contact.css">
+<link href="css/mobile.css" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/png" href="images/favicon.png">
+<script src="ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  	<script>
+		$(function() {
+			var pull 		= $('#pull');
+				menu 		= $('nav ul');
+				menuHeight	= menu.height();
+
+			$(pull).on('click', function(e) {
+				e.preventDefault();
+				menu.slideToggle();
+			});
+
+			$(window).resize(function(){
+        		var w = $(window).width();
+        		if(w > 320 && menu.is(':hidden')) {
+        			menu.removeAttr('style');
+        		}
+    		});
+		});
+	</script>
+<script type="text/javascript" src="js/tabcontent.js"></script>
+</head>
+
+<body>
+<!--top navbar -->
+<div id="topbar">
+<ul>
+<li class="hide"><a href="index.html">Home</a></li>
+<li class="nopad hide"><a href="http://blog.exonhost.com">Blog</a></li>
+<li class="topright tic4 hide"><a href="#">About</a></li>
+<li class="topright tic3 hide"><a href="#">Affiliates</a></li>
+<li class="topright tic2"><a href="tel:+01953306969"><img src="images/tic2.png" alt="Call Us">01953306969</a></li>
+
+</ul></div><div class="clear"></div>
+<!--end top navbar -->
+
+<!--main navbar -->
+<div id="navbar">
+<div class="content">
+<div class="logo"><a href="index.html"><img src="images/logo.png" alt="ExonHost"></a></div>
+<ul id="menuprincipal">
+<li class="thissection"><a href="web-hosting.html"><span class="hideph">Our </span>Services</a></li>
+<li><a href="contact.html">Support</a></li>
+<li class="last"><a href="https://clients.exonhost.com/clientarea.php">Client Area</a></li>
+</ul>
+</div>
+</div><div class="clear"></div>
+<!--end main navbar -->
+
+<!--mobile menu -->
+<div class="white">
+<div class="content">
+<nav class="clearfix">
+  <ul class="clearfix">
+    <li><a href="web-hosting.html">Web Hosting</a></li>
+    <li><a href="reseller-hosting.html">Reseller<span class="mobonly">s</span> <span class="hidetablet">Hosting</span></a></li>
+    <li><a href="ssd-vps.html">Virtual Servers</a></li>
+    <li><a href="dedicated-server.html">Dedicated Servers</a></li>
+    <li><a href="https://clients.exonhost.com/domain/?a=add&domain=register">Domain<span class="mobonly">s</span> <span class="hidetablet">Names</span></a></li>
+    <li><a href="https://clients.exonhost.com/index.php?rp=/store/ssl-certificates">SSL<span class="mobonly">s</span> <span class="hidetablet">Certificate</span></a></li>  
+  </ul>
+  <a href="#" id="pull">Menu</a>
+</nav></div></div><div class="clear"></div>
+<!--end mobile menu -->
+
+
+<!--banner. No label? Add 26px padding with nolabel class -->
+
+<div class="blue banner innerpage"><div id="gradient"><div class="content">
+<h1 class="nolabel">Contact Us</h1>
+<div class="breadcrumb"><a href="index.html">home</a><span class="devider">&nbsp; /  &nbsp;</span><span>support: contact us</span></div>
+</div></div></div>
+<!--end banner -->
+
+
+<!--plans /tab content -->
+
+<div class="white"> 
+<div class="content" id="contact">
+<h2>Select a Category</h2><p class="hdm">Please choose a topic below. When we know at a glance what kind of issue you have, we can give you help more quickly.</p>
+ 
+<ul id="countrytabs" class="shadetabs">
+<li class="first"><a href="#" rel="country1" class="selected"><span class="icon">&nbsp;</span><hr>Need assistance<br>
+to place your order?</a></li>
+<li><a href="#" rel="country2"><span class="icon gear">&nbsp;</span><hr>Do you have <br>
+a technical question?</a></li>
+<li class="lastx"><a href="#" rel="country3"><span class="icon sos">&nbsp;</span><hr>Your server is down<br>
+or has been hacked?</a></li>
+
+</ul>
+
+<div>
+
+<div id="country1" class="tabcontent">
+<!--contact 1 -->
+<div class="spacer">&nbsp;</div>
+<div class="flex-grid centered" style="margin-bottom:75px">
+<div class="onefird"><h3>Live Chat</h3><img src="images/sic1.png" alt=""><p>Need Help for Deciding? Talk to one of our hosting specialist who can help you to choose perfect plan for your needs.</p><a href="#chat" class="greenbutton sco">Live Chat Online</a></div>
+<div class="onefird"><h3>Frequently Asked Questions</h3><img src="images/sic3.png" alt=""><p>Find answers to frequently asked questions about web hosting, including how to find the right host or package for your website.</p><a href="https://clients.exonhost.com/index.php?rp=/knowledgebase" class="bluebutton">Knowledgebase</a></div>
+<div class="onefird"><h3>Contact Sales</h3><img src="images/sic2.png" alt=""><p>We are available to help you. Send us email from contact form. A team member will contact with you as soon possible.</p><a href="https://clients.exonhost.com/submitticket.php?step=2&deptid=2" class="bluebutton">Send Email</a>
+  </div>
+</div>
+<!-- end contact1 -->
+</div>
+
+<div id="country2" class="tabcontent">
+<!--contact 2 -->
+<div class="spacer">&nbsp;</div>
+<div class="flex-grid centered" style="margin-bottom:75px">
+<div class="onefird"><h3>Frequently Asked Questions</h3><img src="images/sic3.png" alt=""><p>Find answers to frequently asked questions about web hosting. <a href="https://clients.exonhost.com/index.php?rp=/knowledgebase">Click here</a></p></div>
+<div class="twhofird"><div class="supp"><p>Our friendly Support Team is available to help you 24 hours a day, seven days a week. We look forward to hearing from you! Our 24/7 support team is available to assist you with your domain, hosting and online presence needs. We know you're busy, so we provide you with a number of options for you to contact us. From phone, chat, to online form submission, our friendly and knowledgeable staff is waiting to hear from you. All contacts will be responded to by the same means they are received.</p><div class="set"><a href="tel:01953306969" class=" greenbutton">Call: 01953306969</a> <a href="https://clients.exonhost.com/submitticket.php?step=2&deptid=1" class="bluebutton">Submit a Ticket</a></div></div></div>
+
+</div><!-- end contact2 -->
+</div>
+
+<div id="country3" class="tabcontent">
+<!--contact 3 -->
+<div class="spacer">&nbsp;</div>
+<div class="flex-grid centered" style="margin-bottom:75px">
+<div class="onefird"><h3>Live Chat</h3><img src="images/sic1.png" alt=""><p>Need Help for Deciding? Talk to one of our hosting specialist who can help you to choose perfect plan for your needs.</p><a href="#chat" class="greenbutton sco">Live Chat Online</a></div>
+<div class="onefird"><h3>Frequently Asked Questions</h3><img src="images/sic3.png" alt=""><p>Find answers to frequently asked questions about web hosting, including how to find the right host or package for your website.</p><a href="https://clients.exonhost.com/index.php?rp=/knowledgebase" class="bluebutton">Knowledgebase</a></div>
+<div class="onefird"><h3>Contact Sales</h3><img src="images/sic2.png" alt=""><p>We are available to help you. Send us email from contact form. A team member will contact with you as soon possible.</p><a href="https://clients.exonhost.com/submitticket.php?step=2&deptid=2" class="bluebutton">Send Email</a>
+  </div>
+</div>
+<!-- end contact3 -->
+</div>
+
+
+<script type="text/javascript">
+
+var countries=new ddtabcontent("countrytabs")
+countries.setpersist(true)
+countries.setselectedClassTarget("link") //"link" or "linkparent"
+countries.init()
+
+</script>
+
+
+
+</div></div>
+<!--end plans -->
+
+
+
+<!-- Global Footer -->
+
+<div id="footertop">
+<div class="content">
+<ul>
+<li id="titf">Not sure where to start?</li><li id="angle"><a href="#chat" class="sco"><img src="images/chat.png" alt=""> Sales Live Chat</a></li><li id="ticket"><a href="https://clients.exonhost.com/submitticket.php?step=2&deptid=1"><img src="images/ticket.png" alt=""> <span>Submit a </span>Support Ticket</a></li><li id="mailf"><a href="tel:+01953306969"><img src="images/call.png" alt=""> Call Us</a></li><li id="emf"><a href="mailto:sales@exonhost.com"><img src="images/email.png" alt=""> Email Us</a></li>
+</ul>
+</div>
+</div>
+<div id="footerlinks">
+<div class="content">
+<div id="newsletter"><h5>Our Address</h5><br>
+    
+House 452 (4th Floor), Road 31, <br>
+New DOHS Mohakhali <br>
+Dhaka - 1206, Bangladesh
+
+<div id="socilicons">
+
+<a href="https://www.facebook.com/exonhost" class="social"></a>
+
+<a href="https://www.twitter.com/exonhost" class="social twitter"></a>
+
+<a href="#" class="social gplus"></a>
+
+</div>
+
+</div>
+
+<ul id="footermap"> 
+<li>
+<h5>Services</h5>
+
+<a href="web-hosting.html">Web Hosting</a>
+<a href="reseller-hosting.html">Reseller Hosting</a>
+<a href="ssd-vps.html">Virtual Servers</a>
+<a href="dedicated-server.html">Dedicated Servers</a>
+</li>
+<li>
+<h5>Company</h5>
+
+<a href="about.html">About US</a>
+<a href="datacenter.html">Our Datacenters</a>
+<a href="http://blog.exonhost.com">Our Blog</a>
+<a href="https://clients.exonhost.com/contact.php">Contact US </a>
+
+</li>
+
+<li>
+<h5>Help</h5>
+
+<a href="https://clients.exonhost.com/index.php?rp=/knowledgebase">Knowledgebase</a>
+<a href="https://status.exonhost.com">Service Status</a>
+<a href="https://clients.exonhost.com/submitticket.php?step=2&deptid=1">Support Center</a>
+<a href="https://clients.exonhost.com/index.php?rp=/announcements">News &amp; Updates</a>
+</li>
+
+<li>
+<h5>Legal</h5>
+
+<a href="https://clients.exonhost.com/submitticket.php?step=2&deptid=4">Report Abuse</a>
+<a href="tos.html">Terms of Service</a>
+<a href="privacy.html">Privacy Policy</a>
+<a href="aup.html">Acceptable Usages Policy</a>
+
+</li>
+
+</ul>
+<div class="clear"></div>
+<div class="copy"><div><a href="tos.html">Terms of Service</a>   |   <a href="privacy.html">Privacy Policy</a>   |  <a href="tos.html">SLA</a> &nbsp; <span><img src="images/card1.png" alt="MasterCard"> <img src="images/card2.png" alt="Visa"> <img src="images/card3.png" alt="PayPal"></span></div>&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+</script> ExonHost. All rights reserved.</div>
+
+</div></div>
+
+<!-- End Global Footer -->
+
+  <!--Start of Help.com Live Chat Script-->
+ <script>
+  
+ // setTimeout for testing
+    setTimeout(() => {
+        console.log('init client logged in id');
+    
+        window.exonChat.whmcs_info = { clientId: '', clientEmail: '' };
+    }, 20000);
+
+window.exonChat = {};
+    
+(function (d, s, id) {
+    let js,
+        fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.setAttribute('data-widget-id', 'exonhost');
+    js.src = `https://chat.exonhost.com/assets/js/web-chat/web-chat.js`;
+    fjs.parentNode.insertBefore(js, fjs);
+})(document, 'script', 'exhonchat-chat-script');
+                
+    </script>
+  <!--End of Help.com Live Chat Script-->
+
+</div></body>
+</html>
