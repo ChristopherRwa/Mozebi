@@ -4,24 +4,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Business Web Hosting | Mozaweb - Mozambique</title>
-<meta name="description" content="Mozaweb offers cheap and reliable business hosting in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
+<title>Business Web Hosting | Mozebi - Mozambique</title>
+<meta name="description" content="Mozebi offers cheap and reliable business hosting in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
 <meta name="keywords" content="business hosting Mozambique, business web hosting, cheap hosting, shared web hosting, Mozambican domain registration, VPS hosting Mozambique, dedicated servers Mozambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/business-hosting">
-<meta property="og:title" content="Business Web Hosting | Mozaweb - Mozambique">
-<meta property="og:description" content="Mozaweb offers cheap and reliable business hosting in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.Mozebi.co.mz/business-hosting">
+<meta property="og:title" content="Business Web Hosting | Mozebi - Mozambique">
+<meta property="og:description" content="Mozebi offers cheap and reliable business hosting in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/business-hosting">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.Mozebi.co.mz/business-hosting">
+<meta property="og:image" content="https://www.Mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="business hosting | Mozaweb">
-<meta name="twitter:description" content="Mozaweb offers cheap and reliable business hosting in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="business hosting | Mozebi">
+<meta name="twitter:description" content="Mozebi offers cheap and reliable business hosting in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
+<meta name="twitter:image" content="https://www.Mozebi.co.mz/img/imagem-post.png">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
@@ -205,7 +205,7 @@
                             <li>
                                 <img class="img-fluid" src="img/home-control-icon-3.png">
                                 <h5>Easy management</h5>
-                                <p>The mozaweb Panel is extremely easy to use and anyone with little experience in website development can use it.</p>
+                                <p>The Mozebi Panel is extremely easy to use and anyone with little experience in website development can use it.</p>
                             </li>
                         </ul>
                     </div>
@@ -308,7 +308,7 @@
     </div>
 </div>
 
-<?php include_once(dirname(__FILE__) ."/includ/why-mozaweb.php")?>
+<?php include_once(dirname(__FILE__) ."/includ/why-mozebi.php")?>
 
 <div class="faq-block">
     <div class="container">
@@ -318,7 +318,7 @@
         <div class="guidance-step-main">
             <div class="accordion">
                 <div class="accordion-item open">
-                    Oque é Hospedagem cPanel
+                    What is cPanel Hosting
                 </div>
                 <div class="data" style="display: block;">
                     <div class="faq-content">
@@ -354,7 +354,7 @@
                 </div>
 
                 <div class="accordion-item">
-                    Can you transfer my website to Mozaweb?
+                    Can you transfer my website to Mozebi?
                 </div>
                 <div class="data">
                     <div class="faq-content">
@@ -363,7 +363,7 @@
                 </div>
 
                 <div class="accordion-item">
-                   Does mozaweb back up my account?
+                   Does Mozebi back up my account?
                 </div>
                 <div class="data">
                     <div class="faq-content">

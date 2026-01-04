@@ -4,24 +4,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Registar Domínio | Mozaweb - Moçambique</title>
-<meta name="description" content="Mozaweb oferece serviços de registo de domínios moçambicanos. Registe o seu domínio .mz ou .co.mz com preços acessíveis e suporte confiável.">
+<title>Registar Domínio | Mozebi - Moçambique</title>
+<meta name="description" content="Mozebi oferece serviços de registo de domínios moçambicanos. Registe o seu domínio .mz ou .co.mz com preços acessíveis e suporte confiável.">
 <meta name="keywords" content="registar domínio Moçambique, registo de domínios moçambicanos,domínios .mz, .co.mz, .ac.mz, .org.mz, .edu.mz, registo de dominios .mz, registo de domínios,registar dominio .com, registar dominio para meu site, registar domínio .mz, registar domínio .co.mz, domínios baratos Moçambique, domínios Moçambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/registar-dominio">
-<meta property="og:title" content="Registar Domínio | Mozaweb - Moçambique">
-<meta property="og:description" content="Mozaweb oferece serviços de registo de domínios moçambicanos. Registe o seu domínio .mz ou .co.mz com preços acessíveis e suporte confiável.">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.Mozebi.co.mz/registar-dominio">
+<meta property="og:title" content="Registar Domínio | Mozebi - Moçambique">
+<meta property="og:description" content="Mozebi oferece serviços de registo de domínios moçambicanos. Registe o seu domínio .mz ou .co.mz com preços acessíveis e suporte confiável.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/registar-dominio">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.Mozebi.co.mz/registar-dominio">
+<meta property="og:image" content="https://www.Mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Registar Domínio | Mozaweb">
-<meta name="twitter:description" content="Mozaweb oferece serviços de registo de domínios moçambicanos. Registe o seu domínio .mz ou .co.mz com preços acessíveis e suporte confiável.">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Registar Domínio | Mozebi">
+<meta name="twitter:description" content="Mozebi oferece serviços de registo de domínios moçambicanos. Registe o seu domínio .mz ou .co.mz com preços acessíveis e suporte confiável.">
+<meta name="twitter:image" content="https://www.Mozebi.co.mz/img/imagem-post.png">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
@@ -141,7 +141,7 @@
 <div class="guidance-step-block">
     <div class="container">
         <div class="head">
-            <h3>Por que escolher a mozaweb para o seu domínio?</h3>
+            <h3>Por que escolher a Mozebi para o seu domínio?</h3>
         </div>
         <div class="guidance-step-main">
             <div class="row">
@@ -158,7 +158,7 @@
                     <div class="guidance-step-box same">
                         <span class="guidance-step-box-span"><img class="img-fluid" src="img/guidance-step-box-icon-2.png" alt=""></span>
                         <h4>Configuração Facil</h4>
-                        <p>Após a aquisição, poderá aceder diretamente ao painel da Mozaweb e começar a utilizar o seu domínio. O painel das contas é organizado e fácil de navegar.</p>
+                        <p>Após a aquisição, poderá aceder diretamente ao painel da Mozebi e começar a utilizar o seu domínio. O painel das contas é organizado e fácil de navegar.</p>
                     </div>
                 </div>
                 <div class="col-md-4">

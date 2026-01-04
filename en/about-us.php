@@ -4,24 +4,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>About Us | Mozaweb - Mozambique</title>
-<meta name="description" content="Meet Mozaweb, a leading company in website hosting and domain registration in Mozambique. We offer cheap and reliable hosting, VPS hosting and dedicated servers.">
-<meta name="keywords" content="about Mozaweb, website hosting Mozambique, domain registration, cheap hosting, dedicated servers Mozambique, VPS hosting Mozambique, web hosting Mozambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/about-us">
-<meta property="og:title" content="Mozaweb | About Us ">
-<meta property="og:description" content="Meet Mozaweb, a leading company in website hosting and domain registration in Mozambique. We offer cheap and reliable hosting, VPS hosting and dedicated servers.">
+<title>About Us | MozMozebiaweb - Mozambique</title>
+<meta name="description" content="Meet Mozebi, a leading company in website hosting and domain registration in Mozambique. We offer cheap and reliable hosting, VPS hosting and dedicated servers.">
+<meta name="keywords" content="about Mozebi, website hosting Mozambique, domain registration, cheap hosting, dedicated servers Mozambique, VPS hosting Mozambique, web hosting Mozambique">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.Mozebi.co.mz/about-us">
+<meta property="og:title" content="Mozebi | About Us ">
+<meta property="og:description" content="Meet Mozebi, a leading company in website hosting and domain registration in Mozambique. We offer cheap and reliable hosting, VPS hosting and dedicated servers.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/about-us">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.Mozebi.co.mz/about-us">
+<meta property="og:image" content="https://www.Mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Mozaweb | About Us ">
-<meta name="twitter:description" content="Meet Mozaweb, a leading company in website hosting and domain registration in Mozambique. We offer cheap and reliable hosting, VPS hosting and dedicated servers.">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Mozebi | About Us ">
+<meta name="twitter:description" content="Meet Mozebi, a leading company in website hosting and domain registration in Mozambique. We offer cheap and reliable hosting, VPS hosting and dedicated servers.">
+<meta name="twitter:image" content="https://www.Mozebi.co.mz/img/imagem-post.png">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
@@ -29,7 +29,7 @@
 <link rel="stylesheet" href="css/font-awesome.css">
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/media.css">
-<title>About Us - Mozaweb</title>
+<title>About Us - Mozebi</title>
 </head>
 <body>
 
@@ -41,7 +41,7 @@
         <div class="container">
             <div class="sub-banner-main">
                 <div class="sub-banner-text">
-                    <h2>About Mozaweb</h2>
+                    <h2>About Mozebi</h2>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
     <div class="container">
         <div class="about-intro-main">
             <h3>Committed and Focused on Customers.</h3>
-            <p>Mozaweb was born with the mission of becoming the main ally of those looking for solid and fast hosting. And our main objective is to offer corporate solutions at affordable prices. If you are considering switching hosting providers and are concerned about transferring your files, don't worry as we will carry out this task at no additional cost to you! Just sit back, relax and wait while our experts carry out the necessary transfers, in addition to always having attentive support to ensure the full functioning of your website or email. We also take care of all our customers with dedication</p>
+            <p>Mozebi was born with the mission of becoming the main ally of those looking for solid and fast hosting. And our main objective is to offer corporate solutions at affordable prices. If you are considering switching hosting providers and are concerned about transferring your files, don't worry as we will carry out this task at no additional cost to you! Just sit back, relax and wait while our experts carry out the necessary transfers, in addition to always having attentive support to ensure the full functioning of your website or email. We also take care of all our customers with dedication</p>
         </div>
     </div>
 </div>
@@ -71,9 +71,9 @@
                 <div class="col-lg-8">
                     <div class="our-history-right">
                         <h3>Our story</h3>
-                       <p><span>Mozaweb began its journey with the aim of offering simple and efficient web hosting services. Since the beginning, we have been dedicated to meeting the needs of our customers, both small businesses and large corporations.
+                       <p><span>Mozebi began its journey with the aim of offering simple and efficient web hosting services. Since the beginning, we have been dedicated to meeting the needs of our customers, both small businesses and large corporations.
                        With investments in cutting-edge infrastructure, we offer solutions such as cPanel and DirectAdmin hosting, recognized for their ease of use and robustness. These platforms provide complete control and flexibility to users, allowing them to manage their websites efficiently.
-                       Over the years, we have maintained our commitment to quality and exceptional customer service. Mozaweb has established itself as a reference in reliability and efficiency in the hosting market, always ready to help our customers achieve their online goals.</p>
+                       Over the years, we have maintained our commitment to quality and exceptional customer service. Mozebi has established itself as a reference in reliability and efficiency in the hosting market, always ready to help our customers achieve their online goals.</p>
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@
 </div>
     
 
-  <?php include_once(dirname(__FILE__) ."/includ/why-mozaweb.php")?>
+  <?php include_once(dirname(__FILE__) ."/includ/why-mozebi.php")?>
 
   <?php include_once(dirname(__FILE__) ."/includ/testimoial.php")?>
 

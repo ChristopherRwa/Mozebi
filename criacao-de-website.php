@@ -5,24 +5,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Criação de Websites | Mozaweb - Moçambique</title>
-<meta name="description" content="Mozaweb oferece serviços profissionais de criação de websites em Moçambique. Desenvolvemos sites personalizados, responsivos e otimizados para SEO, adaptados às suas necessidades.">
+<title>Criação de Websites | Mozebi - Moçambique</title>
+<meta name="description" content="Mozebi oferece serviços profissionais de criação de websites em Moçambique. Desenvolvemos sites personalizados, responsivos e otimizados para SEO, adaptados às suas necessidades.">
 <meta name="keywords" content="criação de websites Moçambique, desenvolvimento web, design de sites Moçambique, criação de sites personalizados, criação de sites baratos, desenvolvimento web Moçambique, sites responsivos, otimização SEO Moçambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/criacao-de-website">
-<meta property="og:title" content="Criação de Websites | Mozaweb - Moçambique">
-<meta property="og:description" content="Mozaweb oferece serviços profissionais de criação de websites em Moçambique. Desenvolvemos sites personalizados, responsivos e otimizados para SEO, adaptados às suas necessidades.">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.mozebi.co.mz/criacao-de-website">
+<meta property="og:title" content="Criação de Websites | Mozebi - Moçambique">
+<meta property="og:description" content="Mozebi oferece serviços profissionais de criação de websites em Moçambique. Desenvolvemos sites personalizados, responsivos e otimizados para SEO, adaptados às suas necessidades.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/criacao-de-website">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.mozebi.co.mz/criacao-de-website">
+<meta property="og:image" content="https://www.mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Criação de Websites | Mozaweb">
-<meta name="twitter:description" content="Mozaweb oferece serviços profissionais de criação de websites em Moçambique. Desenvolvemos sites personalizados, responsivos e otimizados para SEO, adaptados às suas necessidades.">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Criação de Websites | Mozebi">
+<meta name="twitter:description" content="Mozebi oferece serviços profissionais de criação de websites em Moçambique. Desenvolvemos sites personalizados, responsivos e otimizados para SEO, adaptados às suas necessidades.">
+<meta name="twitter:image" content="https://www.mozebi.co.mz/img/imagem-post.png">
 <link rel="icon" href="img/favicon1.png" type="image/png" sizes="16x16">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
@@ -34,9 +34,6 @@
 <body>
 <?php include_once(dirname(__FILE__) ."/includ/header-menu.php")?>
 <div class="top-block">
-    
-    
-    
     <div class="sub-banner-wrapper set-as-bg">
         <div class="container">
             <div class="sub-banner-main">
@@ -48,7 +45,6 @@
         </div>
         <span class="make-bg"><img class="img-fluid" src="img//fundo-escuro.jpg" alt=""></span>
     </div>
-    
 </div>
 <div class="dedicated-features-block">
 <div class="dedicated-features-box">
@@ -62,13 +58,12 @@
                     <div class="col-lg-6 order-lg-1">
                         <div class="right">
                             <h3>Criação de Website</h3>
-                           Na Mozaweb, oferecemos um serviço completo de criação de websites, focado em atender às necessidades específicas do seu negócio. </p>
+                           Na Mozebi, oferecemos um serviço completo de criação de websites, focado em atender às necessidades específicas do seu negócio. </p>
                         <p>Nossa equipe de especialistas em design e desenvolvimento trabalha em estreita colaboração com você para criar um site que não só reflita a identidade da sua marca, mas também ofereça uma experiência de usuário excepcional.</p>
                         </div>
                     </div>
                 </div>
             </div><!--dedicated-features-box-->
-
 </div>
 
 <div class="ssl-security-block">
@@ -90,15 +85,12 @@
                             <p>Nossos sites são construídos com as melhores práticas de SEO, ajudando a melhorar sua visibilidade nos motores de busca.</p>						
                     </div>
                 </div>
-
                 <div class="col-lg-4 col-md-6">
                     <div class="ssl-security-box">
                         <h4>Integração de Funcionalidades</h4>
 						<p>Incorporamos as funcionalidades necessárias para o seu negócio, como e-commerce, blogs, sistemas de reservas e muito mais.</p>
                     </div>
                 </div>
-
-
             </div>
         </div>
     </div>
@@ -109,7 +101,7 @@
         <div class="ssl-top-main">
             <div class="head">
                 <h3>Preços de Nossos Planos de Criação de Website</h3>
-                <p>Na Mozaweb, entendemos que cada negócio é único, e por isso oferecemos uma variedade de planos de criação de websites para atender às suas necessidades específicas e ao seu orçamento.</p>
+                <p>Na Mozebi, entendemos que cada negócio é único, e por isso oferecemos uma variedade de planos de criação de websites para atender às suas necessidades específicas e ao seu orçamento.</p>
             </div>
             <div class="ssl-plans">
                 <div class="row">
@@ -309,7 +301,6 @@
     </div>
 </div>
 <?php include_once(dirname(__FILE__) ."/includ/footer.php")?>
-
 
 <script src="js/jquery-3.5.1.js"></script>
 <script src="js/popper.min.js"></script>

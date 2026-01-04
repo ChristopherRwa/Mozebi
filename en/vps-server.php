@@ -4,24 +4,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>VPS Server | Mozaweb - Mozambique</title>
-<meta name="description" content="Mozaweb offers cheap and reliable VPS server in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
+<title>VPS Server | Mozebi - Mozambique</title>
+<meta name="description" content="Mozebi offers cheap and reliable VPS server in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
 <meta name="keywords" content="VPS server Mozambique, cheap VPS server, VPS hosting Mozambique, shared web hosting, Mozambican domain registration, dedicated servers Mozambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/vps-server">
-<meta property="og:title" content="VPS Server | Mozaweb - Mozambique">
-<meta property="og:description" content="Mozaweb offers cheap and reliable VPS server in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.Mozebi.co.mz/vps-server">
+<meta property="og:title" content="VPS Server | Mozebi - Mozambique">
+<meta property="og:description" content="Mozebi offers cheap and reliable VPS server in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/vps-server">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.Mozebi.co.mz/vps-server">
+<meta property="og:image" content="https://www.Mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Mozaweb | VPS Server">
-<meta name="twitter:description" content="Mozaweb offers cheap and reliable VPS server in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Mozebi | VPS Server">
+<meta name="twitter:description" content="Mozebi offers cheap and reliable VPS server in Mozambique. Linux and Windows shared web hosting, Mozambican domain registration, VPS hosting and dedicated servers.">
+<meta name="twitter:image" content="https://www.Mozebi.co.mz/img/imagem-post.png">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
@@ -274,7 +274,7 @@
     </div>
 </div>
 
-<?php include_once(dirname(__FILE__) ."/includ/why-mozaweb.php")?>
+<?php include_once(dirname(__FILE__) ."/includ/why-mozebi.php")?>
 
 <?php include_once(dirname(__FILE__) ."/includ/testimoial.php")?>
 

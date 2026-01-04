@@ -4,24 +4,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Sobre Nós | Mozaweb - Moçambique</title>
-<meta name="description" content="Conheça a Mozaweb, uma empresa líder em hospedagem de sites e registo de domínios em Moçambique. Oferecemos hospedagem barata e confiável, hospedagem VPS e servidores dedicados.">
-<meta name="keywords" content="sobre Mozaweb, hospedagem de sites Moçambique, registo de domínios, hospedagem barata, servidores dedicados Moçambique, hospedagem VPS Moçambique, hospedagem web Moçambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/sobre-nos">
-<meta property="og:title" content="Mozaweb | Sobre Nós">
-<meta property="og:description" content="Conheça a Mozaweb, uma empresa líder em hospedagem de sites e registo de domínios em Moçambique. Oferecemos hospedagem barata e confiável, hospedagem VPS e servidores dedicados.">
+<title>Sobre Nós | Mozebi - Moçambique</title>
+<meta name="description" content="Conheça a Mozebi, uma empresa líder em hospedagem de sites e registo de domínios em Moçambique. Oferecemos hospedagem barata e confiável, hospedagem VPS e servidores dedicados.">
+<meta name="keywords" content="sobre Mozebi, hospedagem de sites Moçambique, registo de domínios, hospedagem barata, servidores dedicados Moçambique, hospedagem VPS Moçambique, hospedagem web Moçambique">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.Mozebi.co.mz/sobre-nos">
+<meta property="og:title" content="Mozebi | Sobre Nós">
+<meta property="og:description" content="Conheça a Mozebi, uma empresa líder em hospedagem de sites e registo de domínios em Moçambique. Oferecemos hospedagem barata e confiável, hospedagem VPS e servidores dedicados.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/sobre-nos">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.Mozebi.co.mz/sobre-nos">
+<meta property="og:image" content="https://www.Mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Mozaweb | Sobre Nós">
-<meta name="twitter:description" content="Conheça a Mozaweb, uma empresa líder em hospedagem de sites e registo de domínios em Moçambique. Oferecemos hospedagem barata e confiável, hospedagem VPS e servidores dedicados.">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Mozebi | Sobre Nós">
+<meta name="twitter:description" content="Conheça a Mozebi, uma empresa líder em hospedagem de sites e registo de domínios em Moçambique. Oferecemos hospedagem barata e confiável, hospedagem VPS e servidores dedicados.">
+<meta name="twitter:image" content="https://www.Mozebi.co.mz/img/imagem-post.png">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
@@ -29,7 +29,7 @@
 <link rel="stylesheet" href="css/font-awesome.css">
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/media.css">
-<title>Sobre Nós - Mozaweb</title>
+<title>Sobre Nós - Mozebi</title>
 </head>
 <body>
 
@@ -41,7 +41,7 @@
         <div class="container">
             <div class="sub-banner-main">
                 <div class="sub-banner-text">
-                    <h2>Sobre Mozaweb</h2>
+                    <h2>Sobre Mozebi</h2>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
     <div class="container">
         <div class="about-intro-main">
             <h3>Comprometido e Focado nos Clientes.</h3>
-            <p>A Mozaweb nasceu com a missão de se tornar a principal aliada daqueles que buscam uma hospedagem sólida e veloz. E o nosso objectivo principal é oferecer soluções corporativas com preços acessíveis. Se você está considerando mudar de provedor de hospedagem e está preocupado em transferir seus arquivos, não se preocupe, pois realizaremos essa tarefa sem custos adicionais para você! Basta se acomodar, relaxar e aguardar enquanto nossos especialistas realizam as transferências necessárias, além de contar com um suporte sempre atento para assegurar o pleno funcionamento do seu site ou e-mail, Cuidamos também de todos os nossos clientes com dedicação</p>
+            <p>A Mozebi nasceu com a missão de se tornar a principal aliada daqueles que buscam uma hospedagem sólida e veloz. E o nosso objectivo principal é oferecer soluções corporativas com preços acessíveis. Se você está considerando mudar de provedor de hospedagem e está preocupado em transferir seus arquivos, não se preocupe, pois realizaremos essa tarefa sem custos adicionais para você! Basta se acomodar, relaxar e aguardar enquanto nossos especialistas realizam as transferências necessárias, além de contar com um suporte sempre atento para assegurar o pleno funcionamento do seu site ou e-mail, Cuidamos também de todos os nossos clientes com dedicação</p>
         </div>
     </div>
 </div>
@@ -71,9 +71,9 @@
                 <div class="col-lg-8">
                     <div class="our-history-right">
                         <h3>Nossa História</h3>
-                        <p><span>A Mozaweb começou sua trajetória com o objetivo de oferecer serviços de hospedagem web simples e eficientes. Desde o início, temos nos dedicado a atender as necessidades de nossos clientes, tanto pequenas empresas quanto grandes corporações.
+                        <p><span>A Mozebi começou sua trajetória com o objetivo de oferecer serviços de hospedagem web simples e eficientes. Desde o início, temos nos dedicado a atender as necessidades de nossos clientes, tanto pequenas empresas quanto grandes corporações.
 Com investimentos em infraestrutura de ponta, oferecemos soluções como hospedagem cPanel e DirectAdmin, reconhecidas pela facilidade de uso e robustez. Essas plataformas proporcionam controle total e flexibilidade para os usuários, permitindo que gerenciem seus sites com eficiência.
-Ao longo dos anos, mantivemos nosso compromisso com a qualidade e um atendimento ao cliente excepcional. A Mozaweb se consolidou como referência em confiabilidade e eficiência no mercado de hospedagem, sempre pronta para ajudar nossos clientes a alcançarem seus objetivos online..</p>
+Ao longo dos anos, mantivemos nosso compromisso com a qualidade e um atendimento ao cliente excepcional. A Mozebi se consolidou como referência em confiabilidade e eficiência no mercado de hospedagem, sempre pronta para ajudar nossos clientes a alcançarem seus objetivos online..</p>
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@ Ao longo dos anos, mantivemos nosso compromisso com a qualidade e um atendimento
 </div>
     
 
-  <?php include_once(dirname(__FILE__) ."/includ/why-mozaweb.php")?>
+  <?php include_once(dirname(__FILE__) ."/includ/why-mozebi.php")?>
 
   <?php include_once(dirname(__FILE__) ."/includ/testimoial.php")?>
 

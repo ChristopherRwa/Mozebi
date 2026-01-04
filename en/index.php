@@ -8,25 +8,25 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Website Hosting, Domain Registration, and Professional Email | Mozaweb - Mozambique</title>
-<meta name="description" content="Mozaweb offers affordable and reliable website hosting in Mozambique. Shared web hosting cPanel and Direct Admin, website hosting, Mozambican domain registration, VPS hosting, and dedicated servers.">
+<title>Website Hosting, Domain Registration, and Professional Email | Mozebi - Mozambique</title>
+<meta name="description" content="Mozebi offers affordable and reliable website hosting in Mozambique. Shared web hosting cPanel and Direct Admin, website hosting, Mozambican domain registration, VPS hosting, and dedicated servers.">
 <meta name="keywords" content="affordable website hosting, web hosting Mozambique, website hosting, Mozambican domain registration, VPS hosting Mozambique, cPanel hosting, Direct Admin hosting, cPanel hosting in Mozambique, dedicated servers Mozambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/en">
-<meta property="og:title" content="Website Hosting, Domain Registration, and Professional Email | Mozaweb - Mozambique">
-<meta property="og:description" content="Mozaweb offers affordable and reliable website hosting in Mozambique. Shared web hosting cPanel and Direct Admin, website hosting, Mozambican domain registration, VPS hosting, and dedicated servers.">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.Mozebi.co.mz/en">
+<meta property="og:title" content="Website Hosting, Domain Registration, and Professional Email | Mozebi - Mozambique">
+<meta property="og:description" content="Mozebi offers affordable and reliable website hosting in Mozambique. Shared web hosting cPanel and Direct Admin, website hosting, Mozambican domain registration, VPS hosting, and dedicated servers.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/en">
-<meta property="og:image" content="https://www.mozaweb.co.mz/en/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.Mozebi.co.mz/en">
+<meta property="og:image" content="https://www.Mozebi.co.mz/en/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Website Hosting, Domain Registration, and Professional Email | Mozaweb - Mozambique">
-<meta name="twitter:description" content="Mozaweb offers affordable and reliable website hosting in Mozambique. Shared web hosting cPanel and Direct Admin, website hosting, Mozambican domain registration, VPS hosting, and dedicated servers.">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Website Hosting, Domain Registration, and Professional Email | Mozebi - Mozambique">
+<meta name="twitter:description" content="Mozebi offers affordable and reliable website hosting in Mozambique. Shared web hosting cPanel and Direct Admin, website hosting, Mozambican domain registration, VPS hosting, and dedicated servers.">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/en/img/imagem-post.png">
+<meta name="twitter:image" content="https://www.Mozebi.co.mz/en/img/imagem-post.png">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -56,7 +56,7 @@
                         <div class="right">
                         <h3 style="color: white;">Reliable, secure and affordable web hosting for your business </h3>
                         <br>
-                        <p><span>Mozaweb</span> makes it easy to start off on the right foot. Our web hosting solutions get your business or project online quickly and include everything you need, such as <span>professional email</span> and more, to succeed online without spending a lot.</p>
+                        <p><span>Mozebi</span> makes it easy to start off on the right foot. Our web hosting solutions get your business or project online quickly and include everything you need, such as <span>professional email</span> and more, to succeed online without spending a lot.</p>
                     </div>
                     </div>
                 </div>
@@ -231,7 +231,7 @@
             </div>
         </div>
     </div>
-    <?php include_once(dirname(__FILE__) ."/includ/why-mozaweb.php")?>
+    <?php include_once(dirname(__FILE__) ."/includ/why-mozebi.php")?>
 <div class="what-ssl-certificate-block">
     <div class="container">
         <div class="what-ssl-certificate-main">
@@ -245,7 +245,7 @@
                     <div class="right">
                     <h3>Free Website Transfer</h3>
                         <p><span>Transfer your website to us and <strong>Get a month of hosting completely free </strong></span> </p>
-                        <p>At Mozaweb, we facilitate the transition of your website to our platform, taking care of the entire content migration process from your current provider. 
+                        <p>At Mozebi, we facilitate the transition of your website to our platform, taking care of the entire content migration process from your current provider. 
                         Additionally, we can transfer your domains from other registrars, allowing you to centralize the management of all your online services/resources in one place.</p>
                         <ul class="home-help-btns">
                             <li><a href="https://cliente.mozaweb.co.mz/submitticket.php?&language=english&currency=1" class="commen-btn">Migrate Now</a></li>

@@ -25,7 +25,7 @@
                         <div class="third-div">
     <select class="nice-select" onchange="location = this.value;">
         <option class="current" value="#">Português</option>
-        <option class="current" value="https://mozaweb.co.mz/en">English</option>
+        <option class="current" value="https://Mozebi.co.mz/en">English</option>
     </select>
 </div>
                         <div class="fourth-div">

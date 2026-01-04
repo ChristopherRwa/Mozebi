@@ -16,7 +16,7 @@
                         <ul class="home-testimonial-slider owl-carousel">
                             <li>
                                 <div class="home-testimoial-box">
-                                <p>Mozaweb support is simply excellent. Whenever I need help, they respond quickly and resolve any issues efficiently. I highly recommend it! </p>
+                                <p>Mozebi support is simply excellent. Whenever I need help, they respond quickly and resolve any issues efficiently. I highly recommend it! </p>
                                     <div class="home-testimoial-deatils">
                                         <span class="test-avatar"><img class="img-fluid" src="img/" alt=""></span>
                                         <h5>
@@ -28,7 +28,7 @@
                             </li>
                             <li>
                                 <div class="home-testimoial-box">
-                                <p>I am extremely satisfied with the hosting services offered by Mozaweb. Since migrating my site to Mozaweb's servers, performance and stability have improved significantly.</p>
+                                <p>I am extremely satisfied with the hosting services offered by Mozebi. Since migrating my site to Mozebi's servers, performance and stability have improved significantly.</p>
                                     <div class="home-testimoial-deatils">
                                         <span class="test-avatar"><img class="img-fluid" src="img/" alt=""></span>
                                         <h5>
@@ -40,7 +40,7 @@
                             </li>
                             <li>
                                 <div class="home-testimoial-box">
-                                    <p>Mozaweb's customer service is exceptional. The staff are always attentive, friendly and ready to help with any questions or problems. I recommend Mozaweb to everyone! </p>
+                                    <p>Mozebi's customer service is exceptional. The staff are always attentive, friendly and ready to help with any questions or problems. I recommend Mozebi to everyone! </p>
                                     <div class="home-testimoial-deatils">
                                         <span class="test-avatar"><img class="img-fluid" src="img/" alt=""></span>
                                         <h5>

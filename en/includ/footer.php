@@ -78,8 +78,8 @@
                             <h5>Company</h5>
                             <ul>
                                 <li><a href="sobre-nos">About Us</a></li>
-                                <li><a href="https://blog.mozaweb.co.mz">Blog</a></li>
-                                <li><a href="mailto:vendas@mozaweb.co.mz">Contacts</a></li>
+                                <li><a href="https://blog.Mozebi.co.mz">Blog</a></li>
+                                <li><a href="mailto:vendas@Mozebi.co.mz">Contacts</a></li>
                             </ul>
                         </div>
                     </div>
@@ -128,7 +128,7 @@
                                     <div class="left">
                                         <h4>Contacts:</h4>
                                         <p><strong>TEL:</strong> +258 87 007 0113</p>
-                                        <p><strong>Email:</strong> info@mozaweb.co.mz</p>
+                                        <p><strong>Email:</strong> info@mozebi.co.mz</p>
                                         
                                     </div>
                                 </div>
@@ -155,7 +155,7 @@
     <div class="footer-bottom-block">
         <div class="container">
             <div class="footer-bottom-main d-flex justify-content-between align-items-center">
-            <p>© 2024 Mozaweb. All rights reserved.</p>
+            <p>© 2021 - 2026 Mozebi. All rights reserved.</p>
                 <ul>
                 <li><a href="service-terms">Terms of service</a></li>
                     <li><a href="privacy-policies">Privacy Policies</a></li>

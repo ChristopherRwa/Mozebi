@@ -5,24 +5,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Website Creation | Mozaweb - Mozambique</title>
-<meta name="description" content="Mozaweb offers professional website creation services in Mozambique. We develop personalized, responsive and SEO-optimized websites, adapted to your needs.">
+<title>Website Creation | Mozebi - Mozambique</title>
+<meta name="description" content="Mozebi offers professional website creation services in Mozambique. We develop personalized, responsive and SEO-optimized websites, adapted to your needs.">
 <meta name="keywords" content="website creation Mozambique, web development, website design Mozambique, custom website creation, cheap website creation, web development Mozambique, responsive websites, SEO optimization Mozambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/web-design">
-<meta property="og:title" content="Website Creation | Mozaweb - Mozambique">
-<meta property="og:description" content="Mozaweb offers professional website creation services in Mozambique. We develop personalized, responsive and SEO-optimized websites, adapted to your needs.">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.Mozebi.co.mz/web-design">
+<meta property="og:title" content="Website Creation | Mozebi - Mozambique">
+<meta property="og:description" content="Mozebi offers professional website creation services in Mozambique. We develop personalized, responsive and SEO-optimized websites, adapted to your needs.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/web-design">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.Mozebi.co.mz/web-design">
+<meta property="og:image" content="https://www.Mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Website Creation | Mozaweb">
-<meta name="twitter:description" content="Mozaweb offers professional website creation services in Mozambique. We develop personalized, responsive and SEO-optimized websites, adapted to your needs.">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Website Creation | Mozebi">
+<meta name="twitter:description" content="Mozebi offers professional website creation services in Mozambique. We develop personalized, responsive and SEO-optimized websites, adapted to your needs.">
+<meta name="twitter:image" content="https://www.Mozebi.co.mz/img/imagem-post.png">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
@@ -62,7 +62,7 @@
                     <div class="col-lg-6 order-lg-1">
                         <div class="right">
                             <h3>website development</h3>
-                           At Mozaweb, we offer a complete website development service, focused on meeting the specific needs of your business.</p>
+                           At Mozebi, we offer a complete website development service, focused on meeting the specific needs of your business.</p>
                         <p>Our team of design and development experts works closely with you to create a website that not only reflects your brand identity but also delivers an exceptional user experience.</p>
                         </div>
                     </div>
@@ -109,7 +109,7 @@
         <div class="ssl-top-main">
             <div class="head">
                 <h3>Prices for Our website development Plans</h3>
-                <p>At Mozaweb, we understand that every business is unique, which is why we offer a variety of website development plans to meet your specific needs and budget.</p>
+                <p>At Mozebi, we understand that every business is unique, which is why we offer a variety of website development plans to meet your specific needs and budget.</p>
             </div>
             <div class="ssl-plans">
                 <div class="row">
@@ -268,7 +268,7 @@
                  </div>
                  <div class="data">
                      <div class="faq-content">
-                         <p>Domain registration is actually your company's address on the internet, meaning it is essential for strengthening of your company's digital identity, as it is the extension of your physical space in the digital environment. Preferably it should have a name easy and small, preferably the name of the company, such as: www.suaempresa.co.mz.</a></p>
+                         <p>Domain registration is actually your company's address on the internet, meaning it is essential for strengthening of your company's digital identity, as it is the extension of your physical space in the digital environment. Preferably it should have a name easy and small, preferably the name of the company, such as: www.yourcompany.co.mz.</a></p>
                      </div>
                  </div>
                  <div class="accordion-item">

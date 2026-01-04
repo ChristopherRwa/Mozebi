@@ -4,24 +4,24 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Servidor VPS | Mozaweb - Moçambique</title>
-<meta name="description" content="Mozaweb oferece servidor VPS barato e confiável em Moçambique. Hospedagem web partilhada Linux e Windows, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados.">
+<title>Servidor VPS | Mozebi - Moçambique</title>
+<meta name="description" content="Mozebi oferece servidor VPS barato e confiável em Moçambique. Hospedagem web partilhada Linux e Windows, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados.">
 <meta name="keywords" content="servidor VPS Moçambique, servidor VPS barato, hospedagem VPS Moçambique, hospedagem web partilhada, registo de domínios moçambicanos, servidores dedicados Moçambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz/servidor-vps">
-<meta property="og:title" content="Servidor VPS | Mozaweb - Moçambique">
-<meta property="og:description" content="Mozaweb oferece servidor VPS barato e confiável em Moçambique. Hospedagem web partilhada Linux e Windows, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados.">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.Mozebi.co.mz/servidor-vps">
+<meta property="og:title" content="Servidor VPS | Mozebi - Moçambique">
+<meta property="og:description" content="Mozebi oferece servidor VPS barato e confiável em Moçambique. Hospedagem web partilhada Linux e Windows, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz/servidor-vps">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.Mozebi.co.mz/servidor-vps">
+<meta property="og:image" content="https://www.Mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Mozaweb | Servidor VPS">
-<meta name="twitter:description" content="Mozaweb oferece servidor VPS barato e confiável em Moçambique. Hospedagem web partilhada Linux e Windows, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados.">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Mozebi | Servidor VPS">
+<meta name="twitter:description" content="Mozebi oferece servidor VPS barato e confiável em Moçambique. Hospedagem web partilhada Linux e Windows, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados.">
+<meta name="twitter:image" content="https://www.Mozebi.co.mz/img/imagem-post.png">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
@@ -274,7 +274,7 @@
     </div>
 </div>
 
-<?php include_once(dirname(__FILE__) ."/includ/why-mozaweb.php")?>
+<?php include_once(dirname(__FILE__) ."/includ/why-mozebi.php")?>
 
 <?php include_once(dirname(__FILE__) ."/includ/testimoial.php")?>
 

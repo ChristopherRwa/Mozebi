@@ -8,25 +8,25 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Hospedagem de Sites (web), Registo de Domínios e Email Profissional | Mozaweb - Moçambique</title>
-<meta name="description" content="Mozaweb oferece hospedagem de sites barato e confiável em Moçambique. hospedagem web partilhado cPanel e Direct Admin, hospedagem de sites, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados. ">
+<title>Hospedagem de Sites (web), Registo de Domínios e Email Profissional | Mozebi - Moçambique</title>
+<meta name="description" content="Mozebi oferece hospedagem de sites barato e confiável em Moçambique. hospedagem web partilhado cPanel e Direct Admin, hospedagem de sites, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados. ">
 <meta name="keywords" content="hospedagem de sites barato, hospedagem web Moçambique, hospedagem de sites, registo de domínios moçambicanos, hospedagem VPS Moçambique, hospedagem cpanel, hospedagem cPanel, hospedagem direct admin, hospedagem cPanel em mocambique, servidores dedicados Moçambique">
-<meta name="author" content="Mozaweb">
-<link rel="canonical" href="https://www.mozaweb.co.mz">
-<meta property="og:title" content="Hospedagem de Sites (web), Registo de Domínios e Email Profissional | Mozaweb - Moçambique">
-<meta property="og:description" content="Mozaweb oferece hospedagem de sites barato e confiável em Moçambique. hospedagem web partilhado cPanel e Direct Admin, hospedagem de sites, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados. ">
+<meta name="author" content="Mozebi">
+<link rel="canonical" href="https://www.mozebi.co.mz">
+<meta property="og:title" content="Hospedagem de Sites (web), Registo de Domínios e Email Profissional | Mozebi - Moçambique">
+<meta property="og:description" content="Mozebi oferece hospedagem de sites barato e confiável em Moçambique. hospedagem web partilhado cPanel e Direct Admin, hospedagem de sites, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados. ">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.mozaweb.co.mz">
-<meta property="og:image" content="https://www.mozaweb.co.mz/img/imagem-Post.svg">
-<meta property="og:site_name" content="Mozaweb">
+<meta property="og:url" content="https://www.mozebi.co.mz">
+<meta property="og:image" content="https://www.mozebi.co.mz/img/imagem-Post.svg">
+<meta property="og:site_name" content="Mozebi">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="660">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@Mozaweb">
-<meta name="twitter:title" content="Hospedagem de Sites (web), Registo de Domínios e Email Profissional | Mozaweb - Moçambique">
-<meta name="twitter:description" content="Mozaweb oferece hospedagem de sites barato e confiável em Moçambique. hospedagem web partilhado cPanel e Direct Admin, hospedagem de sites, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados.">
+<meta name="twitter:site" content="@Mozebi">
+<meta name="twitter:title" content="Hospedagem de Sites (web), Registo de Domínios e Email Profissional | Mozebi - Moçambique">
+<meta name="twitter:description" content="Mozebi oferece hospedagem de sites barato e confiável em Moçambique. hospedagem web partilhado cPanel e Direct Admin, hospedagem de sites, registo de domínios moçambicanos, hospedagem VPS e servidores dedicados.">
 <link rel="icon" href="img/logo-icon.png" type="image/png" sizes="16x16">
-<meta name="twitter:image" content="https://www.mozaweb.co.mz/img/imagem-post.png">
+<meta name="twitter:image" content="https://www.mozebi.co.mz/img/imagem-post.png">
 <link href="css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,623;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,623;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -56,7 +56,7 @@
                         <div class="right">
                         <h3 style="color: white;">Hospedagem de site confiável, segura e acessível para o seu negócio </h3>
                         <br>
-                            <p>A<span> Mozaweb</span> facilita o começo com o pé direito. Nossas soluções de hospedagem web colocam seu negócio ou projeto online rapidamente e incluem tudo o que você precisa, como <span>E-mail profissional</span> e muito mais, para ter sucesso online sem gastar muito.</p>
+                            <p>A<span> Mozebi</span> facilita o começo com o pé direito. Nossas soluções de hospedagem web colocam seu negócio ou projeto online rapidamente e incluem tudo o que você precisa, como <span>E-mail profissional</span> e muito mais, para ter sucesso online sem gastar muito.</p>
                             
                        </div>
                     </div>
@@ -140,8 +140,8 @@
             <div class="container">
                 <div class="much-more-block">
                     <div class="much-more-head">
-                        <h3>Benefícios de hospedar seu site na Mozaweb</h3>
-                        <p> Descubra as vantagens exclusivas que só a Mozaweb oferece</p>
+                        <h3>Benefícios de hospedar seu site na Mozebi</h3>
+                        <p> Descubra as vantagens exclusivas que só a Mozebi oferece</p>
                     </div>
                     <div class="much-more-main">
                         <div class="row">
@@ -183,7 +183,7 @@
                 <div class="home-second-main">
                     <h1 class="center">Registe o seu domínio aqui!</h1>
                     <div class="top">
-                    <form id="search-domain" action="https://cliente.mozaweb.co.mz/cart.php?a=add&domain=register&currency=2" method="post">
+                    <form id="search-domain" action="https://cliente.mozebi.co.mz/cart.php?a=add&domain=register&currency=2" method="post">
                         <span class="home-domain-name">www.</span>
                         <input type="text" name="query" class="home-domain-input" placeholder="Digite o seu nome de dominio aqui..." required>
                         <div class="home-domain-selct-btn">
@@ -231,7 +231,7 @@
             </div>
         </div>
     </div>
-    <?php include_once(dirname(__FILE__) ."/includ/why-mozaweb.php")?>
+    <?php include_once(dirname(__FILE__) ."/includ/why-mozebi.php")?>
 <div class="what-ssl-certificate-block">
     <div class="container">
         <div class="what-ssl-certificate-main">
@@ -245,10 +245,10 @@
                     <div class="right">
                         <h3>Transferência de Site Grátis</h3>
                         <p><span>Transfira o seu site para  nós e <strong>Ganhe um mês de hospedagem totalmente Grátis </strong></span> </p>
-                        <p>Na Mozaweb, facilitamos a transição do seu site para nossa plataforma, cuidando de todo o processo de migração de conteúdo do seu provedor atual. 
+                        <p>Na Mozebi, facilitamos a transição do seu site para nossa plataforma, cuidando de todo o processo de migração de conteúdo do seu provedor atual. 
                         Além disso, podemos transferir seus domínios de outros registradores, permitindo que você centralize a gestão de todos os seus serviços/recursos online em um só lugar.</p>
                         <ul class="home-help-btns">
-                            <li><a href="https://cliente.mozaweb.co.mz/submitticket.php?&currency=2" class="commen-btn">Migrar Agora</a></li>
+                            <li><a href="https://cliente.mozebi.co.mz/submitticket.php?&currency=2" class="commen-btn">Migrar Agora</a></li>
                             
                         </ul>
                     </div>

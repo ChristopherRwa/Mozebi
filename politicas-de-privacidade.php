@@ -4,7 +4,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Política de Privacidade - Mozaweb</title>
+<title>Política de Privacidade - Mozebi</title>
 <link href="css/stylesheet.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="css/tabcontent-contact.css">
 <link href="css/mobile.css" rel="stylesheet" type="text/css">
@@ -17,7 +17,7 @@
 
 <div class="blue banner innerpage"><div id="gradient"><div class="content">
 <h1 class="nolabel">Política de Privacidade</h1>
-<div class="breadcrumb"><a href="https://mozaweb.co.mz">Inicio</a><span class="devider">&nbsp; /  &nbsp;</span><span>Empresa: Política de Privacidade</span></div>
+<div class="breadcrumb"><a href="https://Mozebi.co.mz">Inicio</a><span class="devider">&nbsp; /  &nbsp;</span><span>Empresa: Política de Privacidade</span></div>
 </div></div></div>
 <!--end banner -->
 
@@ -31,10 +31,10 @@
   <section class="wrapper">
   <div class="privacy_textbox">
 
-<p>Esta é a Política de Privacidade da Mozaweb. Discute como iremos recolher, utilizar, manter e divulgar as informações que iremos recolher dos visitantes e clientes do nosso website. A nossa política de privacidade faz parte dos nossos contratos e está incorporada nos nossos Termos de Serviço e em qualquer outro contrato que tenhamos com os utilizadores.</p>
+<p>Esta é a Política de Privacidade da Mozebi. Discute como iremos recolher, utilizar, manter e divulgar as informações que iremos recolher dos visitantes e clientes do nosso website. A nossa política de privacidade faz parte dos nossos contratos e está incorporada nos nossos Termos de Serviço e em qualquer outro contrato que tenhamos com os utilizadores.</p>
 <br>
 
-<p><strong>Que tipo de informação recolhe a Mozaweb?</strong></p>
+<p><strong>Que tipo de informação recolhe a Mozebi?</strong></p>
 <p>Quando um visitante visita o nosso website, o nosso servidor web recolhe informações básicas de utilizador sobre ele, que incluem o domínio do seu ISP, a hora a que acedeu ao nosso website e as páginas do nosso website que visita. Estas não são informações de identificação pessoal, exceto quando necessário para prevenir a fraude ou o abuso do sistema.</p>
 <br>
 
@@ -60,11 +60,11 @@
 
 <p><strong>Como usamos a informação</strong></p>
 <p>Não partilhamos, alugamos, vendemos ou divulgamos as suas informações pessoais a qualquer indivíduo, entidade ou terceiro.</p>
-<p>A Mozaweb pode utilizar informações de identificação pessoal recolhidas através do nosso website para contactar os utilizadores sobre produtos e serviços oferecidos pela Mozaweb e pelas suas afiliadas de confiança, contratantes independentes e parceiros de negócios, e de outra forma para melhorar a experiência dos clientes com a Mozaweb e tais afiliadas, contratantes independentes e parceiros de negócios. A Mozaweb pode também utilizar informações recolhidas através do nosso website para pesquisas sobre a eficácia do website e os esforços de marketing, publicidade e vendas da Mozaweb, das suas afiliadas de confiança, contratantes independentes e parceiros de negócios; por exemplo, para fornecer informações sobre produtos que possam ser do seu interesse ou para lhe permitir usufruir de programas especiais de parceiros ou ofertas especiais da Mozaweb. A Mozaweb também pode utilizar informações de clientes para fornecer aos clientes informações do sistema ou informações sobre produtos novos ou atualizados.</p>
+<p>A Mozebi pode utilizar informações de identificação pessoal recolhidas através do nosso website para contactar os utilizadores sobre produtos e serviços oferecidos pela Mozebi e pelas suas afiliadas de confiança, contratantes independentes e parceiros de negócios, e de outra forma para melhorar a experiência dos clientes com a Mozebi e tais afiliadas, contratantes independentes e parceiros de negócios. A Mozebi pode também utilizar informações recolhidas através do nosso website para pesquisas sobre a eficácia do website e os esforços de marketing, publicidade e vendas da Mozaweb, das suas afiliadas de confiança, contratantes independentes e parceiros de negócios; por exemplo, para fornecer informações sobre produtos que possam ser do seu interesse ou para lhe permitir usufruir de programas especiais de parceiros ou ofertas especiais da Mozebi. A Mozebi também pode utilizar informações de clientes para fornecer aos clientes informações do sistema ou informações sobre produtos novos ou atualizados.</p>
 
 <p>Poderemos divulgar informações de contacto com a sua permissão ao recolher e publicar testemunhos.</p>
 
-<p>As informações pessoais e de conta do cliente não serão partilhadas de outra forma, a menos que tenhamos razões para acreditar na necessidade de divulgar essas informações para identificar, entrar em contacto ou iniciar uma ação legal contra alguém que possa estar a causar danos ou interferir nos direitos ou propriedade da Mozaweb, dos nossos clientes ou de terceiros. Poderemos fornecer informações às autoridades reguladoras e de aplicação da lei conforme as leis em vigor ou quando a Mozaweb acreditar, de boa fé, que a lei exige essa divulgação.</p>
+<p>As informações pessoais e de conta do cliente não serão partilhadas de outra forma, a menos que tenhamos razões para acreditar na necessidade de divulgar essas informações para identificar, entrar em contacto ou iniciar uma ação legal contra alguém que possa estar a causar danos ou interferir nos direitos ou propriedade da Mozebi, dos nossos clientes ou de terceiros. Poderemos fornecer informações às autoridades reguladoras e de aplicação da lei conforme as leis em vigor ou quando a Mozebi acreditar, de boa fé, que a lei exige essa divulgação.</p>
 <br>
 
 <p><strong>E se eu achar que não está a aderir a esta afirmação?</strong></p>

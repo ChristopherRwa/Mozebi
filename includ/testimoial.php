@@ -16,7 +16,7 @@
                         <ul class="home-testimonial-slider owl-carousel">
                             <li>
                                 <div class="home-testimoial-box">
-                                <p>O suporte da Mozaweb é simplesmente excelente. Sempre que preciso de ajuda, eles respondem rapidamente e resolvem qualquer problema com eficiência. Recomendo muito! </p>
+                                <p>O suporte da Mozebi é simplesmente excelente. Sempre que preciso de ajuda, eles respondem rapidamente e resolvem qualquer problema com eficiência. Recomendo muito! </p>
                                     <div class="home-testimoial-deatils">
                                         <span class="test-avatar"><img class="img-fluid" src="img/" alt=""></span>
                                         <h5>
@@ -28,7 +28,7 @@
                             </li>
                             <li>
                                 <div class="home-testimoial-box">
-                                <p>Estou extremamente satisfeito com os serviços de hospedagem oferecidos pela Mozaweb. Desde que migrei meu site para os servidores da Mozaweb, a performance e a estabilidade melhoraram significativamente.</p>
+                                <p>Estou extremamente satisfeito com os serviços de hospedagem oferecidos pela Mozebi. Desde que migrei meu site para os servidores da Mozebi, a performance e a estabilidade melhoraram significativamente.</p>
                                     <div class="home-testimoial-deatils">
                                         <span class="test-avatar"><img class="img-fluid" src="img/" alt=""></span>
                                         <h5>
@@ -40,7 +40,7 @@
                             </li>
                             <li>
                                 <div class="home-testimoial-box">
-                                    <p>O atendimento ao cliente da Mozaweb é excepcional. A equipe é sempre atenciosa, amigável e pronta para ajudar com qualquer dúvida ou problema. Recomendo a Mozaweb a todos! </p>
+                                    <p>O atendimento ao cliente da Mozebi é excepcional. A equipe é sempre atenciosa, amigável e pronta para ajudar com qualquer dúvida ou problema. Recomendo a Mozebi a todos! </p>
                                     <div class="home-testimoial-deatils">
                                         <span class="test-avatar"><img class="img-fluid" src="img/" alt=""></span>
                                         <h5>

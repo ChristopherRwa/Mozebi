@@ -7,7 +7,7 @@
 
 <div class="email-hosting-features-block">
     <div class="head">
-        <h3>O que torna a Mozaweb especial?</h3>
+        <h3>O que torna a Mozebi especial?</h3>
         <p>Temos os recursos e o serviço que você merece!</p>
     </div>
     <div class="main">
